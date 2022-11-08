@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+First Of all Add firebase to Android And Ios.
+Paste Google-services.json and GoogleService-info.plish files respective places.
+Add Url Scheme of Copy Reversed_client Id from plish and add it to Runner-Target-Info-UrlTypes-Plus Button.
+Go To Cloud Console Link And Enable Android Device Verification.
+Add ShA1 and SHA256. In Firebase. From Android studio / projectFolder/Android/. Type: ./gradlew signingReport
