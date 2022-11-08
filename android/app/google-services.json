@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407827507010",
+    "project_id": "phoneauthbloc-fda98",
+    "storage_bucket": "phoneauthbloc-fda98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407827507010:android:e34c20f0eb27d36d62cadb",
+        "android_client_info": {
+          "package_name": "com.jawaid.firebaseauthusingbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407827507010-pjoncn1mhes1jl82obfjo5gf2i2vjqci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKlcFcToBo-y9n5d4b7hdqzL2PoO0FU34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407827507010-pjoncn1mhes1jl82obfjo5gf2i2vjqci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
